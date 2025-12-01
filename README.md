@@ -19,8 +19,11 @@
 
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/astybux/books?style=for-the-badge&logo=gnubash&logoColor=%23ffffff&logoSize=amg&color=%23009900) -->
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astybux&theme=github_dark -->
-| Stats | Langs | 21:10 |
+<!--| Stats | Langs | 21:10 |
 | --- | --- | --- |
-|<img src="https://github-readme-stats.vercel.app/api?username=astybux&hide=prs&show_icons=true&commits_year=2025&theme=chartreuse-dark" width="450" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astybux&theme=chartreuse-dark&layout=compact&hide=javascript,ejs,css" width="300" height="300">|<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="167" height="167"/>|
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=%20009900&lines=%E2%9D%AF%20lua%20-e%20%22print%20%27hexagontal%27%22;%E2%9D%AF%20cmus;%E2%9D%AF%20date;%E2%9D%AF%20exa;%E2%9D%AF%20python3%20-c%20%22import%20this%22" width="10000">
+|<img src="https://github-readme-stats.vercel.app/api?username=astybux&hide=prs&show_icons=true&commits_year=2025&theme=chartreuse-dark" width="450" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astybux&theme=chartreuse-dark&layout=compact&hide=javascript,ejs,css" width="300" height="300">|<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="167" height="167"/>| -->
+| Сonsole | Skills | Pixel |
+| --- | --- | --- |
+|<img src="https://readme-typing-svg.herokuapp.com/?color=%20009900&size=40&height=100&lines=%E2%9D%AF%20lua%20-e%20%22print%20%27hexagontal%27%22;%E2%9D%AF%20cmus;%E2%9D%AF%20date;%E2%9D%AF%20exa;%E2%9D%AF%20python3%20-c%20%22import%20this%22" width="500">|<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,python,cpp,csharp,bash,lua,markdown&theme=darkmode">|<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" height="200"/>|
+<!-- |<img src="https://readme-typing-svg.herokuapp.com/?color=%20009900&lines=%E2%9D%AF%20lua%20-e%20%22print%20%27hexagontal%27%22;%E2%9D%AF%20cmus;%E2%9D%AF%20date;%E2%9D%AF%20exa;%E2%9D%AF%20python3%20-c%20%22import%20this%22" width="10000">|<img src="https://readme-jokes.vercel.app/api?hideBorder">|<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" height="200"/>| -->
+<!--"https://profile-summary-for-github.com/user/astybux"-->
